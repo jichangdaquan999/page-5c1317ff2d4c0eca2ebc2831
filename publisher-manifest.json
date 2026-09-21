@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "1f1e6ae14fb7b2b333c184d5",
+  "owner": "jichangdaquan999",
+  "repo": "page-5c1317ff2d4c0eca2ebc2831",
+  "title": "妙妙屋",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "5c1317ff2d4c0eca2ebc2831",
+      "a": "妙妙屋",
+      "b": "稳定全球clash加速器",
+      "entity": "妙妙屋",
+      "brand": "妙妙屋",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "72e27855358b938225644f4105b6220ffa341fb5de52ec31dcd7cf9629566f72",
+      "content": {
+        "primary_entity": "妙妙屋",
+        "keyword1": "妙妙屋",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Clash 客户端覆盖 Windows、macOS、Android 与 iOS，设备选择对应版本即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好设备与套餐，几分钟即可开始使用全球节点。",
+          "AI_CLOSING_TITLE": "开启妙妙屋加速体验",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，月付 15 元起、年付 150 元起，流量从 100GB 到 1000GB，支持 3 至 20 台设备同时在线，覆盖 Clash 常用客户端，适合个人、家庭与团队按需选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度挑选合适档位。",
+          "AI_FEATURES_TITLE": "套餐选择的关键维度",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版 300GB、5 台设备；团队版 1000GB、20 台设备，按日常用量对应选择。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_2": "手机、平板与电脑可同时接入，旗舰版与团队版支持更多终端，适合多设备家庭或小组协作场景。",
+          "AI_FEATURE_TITLE_2": "按设备数配置",
+          "AI_FEATURE_TEXT_3": "月付适合短期体验，年付仅需 150 元起，长期使用更划算，订阅周期可根据使用计划灵活切换。",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "三步完成从选型到配置的完整流程。",
+          "AI_GUIDE_TITLE": "使用妙妙屋的三步",
+          "AI_HERO_INTRO": "妙妙屋面向需要稳定全球网络加速的用户，提供多档 Clash 订阅套餐，覆盖主流客户端，按流量、设备数和订阅周期灵活选择，适合日常浏览、流媒体与游戏加速场景。",
+          "AI_HERO_SUBTITLE": "稳定全球节点，多设备轻松接入",
+          "AI_HIGHLIGHT_1": "三档套餐，月付 15 元起",
+          "AI_HIGHLIGHT_2": "年付 150 元起更划算",
+          "AI_HIGHLIGHT_3": "支持 3 至 20 台设备同时在线",
+          "AI_PLANS_INTRO": "基础版 100GB/3 台设备，旗舰版 300GB/5 台设备并含专线优化，团队版 1000GB/20 台设备，按用量与人数挑选。",
+          "AI_PLANS_TITLE": "套餐对比一览",
+          "AI_STEP_TEXT_1": "根据日常流量、同时在线设备数和预算，从基础版、旗舰版、团队版中选择合适档位。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_2": "确认所用设备与系统版本，在 Clash 客户端列表中查找对应平台的适配说明。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "按照客户端文档导入订阅链接，保存后即可连接节点，在配置中切换线路使用。",
+          "AI_STEP_TITLE_3": "配置订阅连接",
+          "AI_VISUAL_TITLE": "妙妙屋全球加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、3 台设备在线，使用普通线路节点池；旗舰版每月 300GB 流量、5 台设备在线，包含 IPLC 专线节点，适合游戏加速与流媒体。",
+          "AI_FAQ_QUESTION_2": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB 流量、支持 20 台设备同时在线，提供 VIP 专属高带宽节点与企业定制路由，适合多人协作或小型办公环境。",
+          "AI_FAQ_QUESTION_3": "年付能省多少费用？",
+          "AI_FAQ_ANSWER_3": "旗舰版月付 35 元，年付 350 元，相当于按 10 个月计费；基础版年付 150 元，团队版年付 850 元，折算金额均低于对应月付累计。",
+          "AI_FAQ_QUESTION_4": "订阅如何在客户端中导入？",
+          "AI_FAQ_ANSWER_4": "在设备上安装对应客户端，找到订阅导入入口，粘贴订阅链接并保存，客户端自动拉取节点列表，选择节点即可连接。",
+          "AI_FAQ_QUESTION_5": "同时在线设备数量可以临时增加吗？",
+          "AI_FAQ_ANSWER_5": "各档方案的设备数量按订阅档位设定，基础版 3 台、旗舰版 5 台、团队版 20 台。如临时需要更多设备在线，可升级到更高档位，升级后以新档位数量为准。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "iashu.cn",
+    "host": "iashu.cn"
+  },
+  "file_hashes": {
+    "index.html": "42cc56b4e2d075194ca97d6f736f2496dce3f11f59f350fd50916517adf3fb08",
+    "sitemap.xml": "0903862f6a47c2fabf7f20ed9c3d65e6b9c875cef851bf2b001011011ad70ea8",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "2c97f5c062a258cbb915833b8328a07a066cc2e49c2c75d257593e072bd75601",
+    "robots.txt": "684bc46de03f00c5e33347948164748590897211ef286d07a311c58e162b0691",
+    "462aaff5b72c1db1eadf0bd5cca4827f.txt": "789b4d2d9b691e73e7bb6f71eeea4705457f6b7a47bec039501f83fb2f121c37"
+  },
+  "revision": "5ee0a6583c5455031681ddb2039383ad4df889bed61c50316bac42253dbef95e"
+}
